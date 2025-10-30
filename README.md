@@ -5,8 +5,9 @@
 
 # 👋 Hi, I'm **Neeraj Pallikonda**
 
-🎓 Computer Science Graduate | 💡 AI & ML Enthusiast | 🧑‍💻 Full-Stack Developer  
-🇩🇪 Aspiring Master’s Student in **AI & Advanced Information Technology (Germany)**  
+💡 **AI Engineer & Software Developer** passionate about building **intelligent, data-driven systems**.  
+🎓 Computer Science Graduate | 🚀 Specializing in **AI-powered full-stack applications**  
+🇩🇪 Aspiring Master’s Student in **AI & Advanced Information Technology (Germany)**
 
 ---
 
