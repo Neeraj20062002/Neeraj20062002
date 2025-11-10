@@ -16,9 +16,10 @@
 
 - 🧩 I build **AI-powered systems** — combining ML models, backend APIs, and interactive UIs.  
 - ⚙️ Skilled in **FastAPI**, **React**, **Streamlit**, **Docker**, and **scikit-learn**.  
-- 🚀 Exploring **LLMs**, **NLP-to-SQL systems**, and **Agentic AI frameworks**.  
-- 🌱 Learning **German (A2 Level)** as part of my journey toward higher studies in Germany.  
-- 🎯 Interests: **AI Engineering**, **Automation**, **Finance Analytics**, and **Applied Machine Learning**.
+- 🤖 I develop using **AI-driven tools and automation workflows**, making development faster, smarter, and more efficient.  
+- 🚀 Exploring **LLMs**, **NLP-to-SQL systems**, and **Agentic AI frameworks** for intelligent automation.  
+- 🎯 Interests: **AI Engineering**, **Automation**, and **Applied Machine Learning**.
+
 
 ---
 
