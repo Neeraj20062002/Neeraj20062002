@@ -1,23 +1,23 @@
-<!-- 🧠 Header Banner -->
+<!-- 🧠 Futuristic Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/RQtf2Cs/futuristic-ai-banner.gif" alt="Futuristic AI Banner" width="100%" style="border-radius:12px;"/>
+  <img src="https://i.ibb.co/RQtf2Cs/futuristic-ai-banner.gif" alt="AI Banner" width="100%" style="border-radius:12px;"/>
 </p>
 
 # 👋 Hi, I'm **Neeraj Pallikonda**
 
-💡 **AI Engineer & Software Developer** passionate about building **intelligent, data-driven systems**.  
-🎓 Computer Science Graduate | 🚀 Specializing in **AI-powered full-stack applications**  
-🇩🇪 Aspiring Master’s Student in **AI & Advanced Information Technology (Germany)**
+💡 **AI Engineer & Full-Stack Developer** passionate about designing **intelligent, data-driven systems**.  
+🎓 B.Tech in **Computer Science (AI & ML)** | 🇩🇪 Aspiring **Master’s Student in AI & Advanced IT (Germany)**  
+🚀 Focused on combining **Machine Learning, NLP, and Scalable Web Applications** to solve real-world problems.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Passionate about building intelligent systems combining **AI + Full-Stack Development**
-- 🧩 Experienced with **FastAPI**, **React**, and **Machine Learning**
-- 🚀 Currently working on: **NL2SQL Student System** — a natural-language-to-SQL project  
-- 🌱 Learning **German (A2 Level)** and preparing for studies in Germany  
-- 🎯 Interests: **Artificial Intelligence**, **Finance**, **Data Analytics**, and **Automation**
+- 💻 I build **end-to-end AI systems** — from model training to interactive deployment.  
+- 🧩 Skilled in **FastAPI**, **React**, **Python**, and **Machine Learning pipelines**.  
+- ⚙️ Currently focusing on **Natural Language Processing**, **Computer Vision**, and **Generative AI tools**.  
+- 🌱 Learning **German (A2 Level)** as part of my academic journey toward Germany.  
+- 🎯 Interests: **AI Engineering**, **Automation**, **Finance Analytics**, and **Applied ML Research**.
 
 ---
 
@@ -28,29 +28,32 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 What I’m Working On
 
-### 🧠 [NL2SQL Student System](https://github.com/Neeraj20062002/nl2sql-student-system)
-> **Natural Language to SQL Query Student Management Dashboard**
+- 🧠 Building **AI-powered web apps** integrating models with real-time UIs  
+- 🤖 Experimenting with **LLMs, vector databases, and agentic workflows**  
+- 🔍 Developing **research-driven ML systems** focused on automation and data intelligence  
+- 💬 Exploring **multilingual NLP** and **prompt-to-SQL systems**  
 
-A full-stack web app that translates **user questions** (in natural language) into **SQL queries**, executes them, and displays the results visually.
+---
 
-**Tech:** FastAPI · React · MySQL · NLP · Python  
-**Highlights:**
-- 🌐 Dynamic SQL query generation using NLP
-- ⚡ FastAPI backend with REST endpoints
-- 🧩 React dashboard for data visualization
+## 🧩 Recent Focus Areas
 
-<p align="center">
-  <img src="https://i.ibb.co/SXx1N02/nl2sql-demo.gif" alt="NL2SQL Demo" width="85%" style="border-radius:10px; box-shadow:0 0 12px rgba(255,255,255,0.15);"/>
-</p>
+| Area | Description |
+|------|--------------|
+| 🤖 AI Engineering | Model training, optimization, and deployment |
+| 💬 NLP Systems | Natural Language → SQL / Text → Insights |
+| 🧱 Full-Stack AI | FastAPI, React, Streamlit, MySQL integration |
+| 📊 Data Analytics | Dashboards, visualization, and insights automation |
+| 🧠 Research | Generative AI and practical ML experimentation |
 
 ---
 
@@ -59,10 +62,6 @@ A full-stack web app that translates **user questions** (in natural language) in
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj20062002&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj20062002&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj20062002&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
 </p>
 
 ---
@@ -77,8 +76,8 @@ A full-stack web app that translates **user questions** (in natural language) in
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:neerajpallikonda433@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Neeraj20062002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:neerajpallikonda433@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Neeraj20062002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -94,8 +93,8 @@ A full-stack web app that translates **user questions** (in natural language) in
 ---
 
 ### 🌌 Thanks for visiting my profile!  
-⭐ Don’t forget to check out my repositories and give a star if you find something cool!
+⭐ Check out my repositories and drop a star if you find something cool!
 
 <p align="center">
-  <img src="https://i.ibb.co/jbdt4Cg/thankyou-animation.gif" alt="Thank you animation" width="70%" style="border-radius:10px;"/>
+  <img src="https://i.ibb.co/jbdt4Cg/thankyou-animation.gif" alt="Thank You Animation" width="70%" style="border-radius:10px;"/>
 </p>
