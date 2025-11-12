@@ -26,15 +26,10 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFAA"/>
-  <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00C2FF"/>
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF8800"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00BFFF"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="card-python.svg" width="420"/>
+  <img src="card-javascript.svg" width="420"/>
 </p>
+
 
 ---
 
