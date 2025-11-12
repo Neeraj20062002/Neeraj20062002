@@ -54,16 +54,51 @@
 - 🧰 Expanding my toolkit for **AI product engineering** and **applied research**.
 
 ---
-
 ## 🔭 Current Focus
 
-| Area | Description |
-|------|--------------|
-| 🤖 AI Engineering | Training, optimizing, and deploying ML models |
-| 💬 NLP Systems | Natural Language → SQL & contextual agents |
-| 🧱 Full-Stack AI | FastAPI + React + MySQL + Streamlit |
-| 📊 Data Intelligence | Building dashboards and analytics layers |
-| 🧠 Research | Generative AI, model interpretability, and automation |
+<div style="display:flex; flex-wrap:nowrap; gap:24px; align-items:flex-start; justify-content:center; width:100%; box-sizing:border-box;">
+
+  <!-- Left: table column (flexible) -->
+  <div style="flex:1 1 auto; min-width:320px; max-width:calc(100% - 320px); box-sizing:border-box;">
+    <table style="width:100%; border-collapse:collapse;">
+      <tr>
+        <th style="text-align:left; padding:8px 8px 10px 8px;">Area</th>
+        <th style="text-align:left; padding:8px;">Description</th>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align:top;">🤖 <strong>AI Engineering</strong></td>
+        <td style="padding:8px; vertical-align:top;">Training, optimizing, and deploying ML models</td>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align:top;">💬 <strong>NLP Systems</strong></td>
+        <td style="padding:8px; vertical-align:top;">Natural Language → SQL & contextual agents</td>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align:top;">🧱 <strong>Full-Stack AI</strong></td>
+        <td style="padding:8px; vertical-align:top;">FastAPI + React + MySQL + Streamlit</td>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align:top;">📊 <strong>Data Intelligence</strong></td>
+        <td style="padding:8px; vertical-align:top;">Building dashboards and analytics layers</td>
+      </tr>
+      <tr>
+        <td style="padding:8px; vertical-align:top;">🧠 <strong>Research</strong></td>
+        <td style="padding:8px; vertical-align:top;">Generative AI, model interpretability, and automation</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Right: image column (fixed max width) -->
+  <div style="flex:0 0 320px; min-width:200px; text-align:center; box-sizing:border-box;">
+    <img src="./image.gif" alt="Developer Illustration"
+         style="display:block; margin:0 auto; width:320px; max-width:100%; height:auto; border-radius:12px;"/>
+  </div>
+
+</div>
+
+
+
+
 
 ---
 
