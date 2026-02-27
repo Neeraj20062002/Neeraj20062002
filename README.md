@@ -7,7 +7,7 @@
 
 <p align="center">
   💡 <b>AI Engineer & Full-Stack Developer</b> crafting intelligent, data-driven applications.<br>
-  🎓 <b>B.Tech – Computer Science (AI & ML)</b> | 🇩🇪 Aspiring <b>Master’s Student in AI & Advanced IT (Germany)</b>
+  🎓 <b>B.Tech – Computer Science (AI & ML)</b>
 </p>
 
 ---
